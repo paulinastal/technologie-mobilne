@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Paulina_Stal_czw_9_30</string>
+    <string name="todayRate">Dzisiejszy kurs: %1$f PLN</string>
+    <string name="yesterdayRate">Wczorajszy kurs: %1$f PLN</string>
+    <string name="currencyRate">Kurs walut</string>
+    <string name="goldRate">Kurs złota</string>
+    <string name="converter">Przelicznik</string>
+    <string name="weekRateChange">Kurs z ostatniego tygodnia</string>
+    <string name="monthRateChange">Kurs z ostatniego miesiąca</string>
+    <string name="valueZloty">Wartość w złotówkach</string>
+    <string name="valueCurrency">Wartość w innej walucie</string>
+    <string name="pln">PLN</string>
+</resources>
